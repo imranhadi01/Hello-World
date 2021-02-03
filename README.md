@@ -76,7 +76,7 @@ Clojure is a dialect of the Lisp programming language. Clojure is a general-purp
 
 - [x] **Crystal**
 
-Crystal is a programming language that is still under development which aims to provide a programming experience that is “Fast as C, slick as Ruby”.
+Crystal is a programming language which aims to provide a programming experience that is designed and developed by Ary Borenszweig, Juan Wajnerman, Brian Cardiff and more than 300 contributors. which syntax is inspired by the language Ruby, its fast like "c" 
 
 - [x] **D**
 
