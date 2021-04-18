@@ -106,7 +106,7 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **Go**
 
-Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
+Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 
 - [x] **Groovy**
 
